@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: "tic80-windows-pro"
-          path: build/bin/tic80pro.exe
+          path: build/bin/tic80.exe
